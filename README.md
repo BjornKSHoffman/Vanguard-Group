@@ -2,7 +2,7 @@
 ## Group Project #1
 
 ## Product
-Compare daily coronavirus cases in at least TWO geographical locations (U.S., India) against daily primary market index returns in those geographic locations.
+Compare daily coronavirus cases in at least THREE geographical locations (U.S., India) against daily primary market index returns in those geographic locations.
 Compare and correlate the data to find any potential connection, and perhaps extrapolate into monte calro simulations to predict how corovirus cases may influnce market behavior over a period of time.
 
 ## Engineers
