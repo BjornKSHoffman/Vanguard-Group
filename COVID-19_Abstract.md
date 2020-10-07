@@ -3,4 +3,3 @@ By the end of April 2020 global cases for COVID-19 had surged past 1,000,000 pat
 
 H₀: The number of daily new COVID-19 cases in USA, India, and Brazil has no effect on the daily returns for these countries’ respective major equity market indices.
 H₁: The number of daily new COVID-19 cases in USA, India, and Brazil has a negative effect on the daily returns for these countries’ respective major equity market indices. 
-
