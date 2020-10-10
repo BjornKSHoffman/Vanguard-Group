@@ -2,9 +2,9 @@
 ## Group Project #1
 
 ## Product
-The goal of our project is to compare daily coronavirus cases and deaths in three geographical locations, and to compare them against daily primary market index returns in those geographic locations. We then will correlate the data to find any potential connection, and see if the data lends itself to conclusions that could be invaluable 
+The goal of our project is to compare statistics for daily coronavirus cases and deaths in three geographical locations, and to compare them against daily primary market index returns in those geographic location over the same period of time. We then will correlate the data to find any potential connection, and see if the data lends itself to conclusions that could be provide valuable insight to affected communities and wary investors. 
+## Hypothesis
 
-and highlight insights visually
 
 ## Engineers
 Bjorn --
