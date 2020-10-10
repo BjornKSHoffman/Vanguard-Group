@@ -90,3 +90,6 @@ We were correct that cases and deaths were correllated in all three countries, a
 We were incorrect in that deaths and cases equally affect indexes, if any effect was present at all it did not seem to differentiate between the effect of cases or deaths.
 
 We were correct that that the United States showed the greatest reactionary volatility! This should inform investors that the S+P 500 is wary of a bubble and could lose a large amount in a relatively small period of time in response to negative news.
+
+# Sources
+https://www.kaggle.com/unanimad/corona-virus-brazil
