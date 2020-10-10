@@ -2,20 +2,20 @@
 ## Group Project #1
 
 ## Product
-Compare daily coronavirus cases in THREE geographical locations (U.S., India, Brazil) against daily primary market index returns in those geographic locations.
-Compare and correlate the data to find any potential connection, and perhaps extrapolate into monte calro simulations to predict how corovirus cases may influnce market behavior over a period of time.
+The goal of our project is to compare daily coronavirus cases and deaths in three geographical locations, and to compare them against daily primary market index returns in those geographic locations. We then will correlate the data to find any potential connection, and see if the data lends itself to conclusions that could be invaluable 
+
+and highlight insights visually
 
 ## Engineers
-Bjorn -- Financial concepts, API's, data cleaning
-Kevin -- Git, PyViz
-Roman -- PANDAS 
-Elliot -- 
+Bjorn --
+Kevin --
+Roman -- 
 
 ## Psuedocode
 Import India Coronavirus dataset from Kaggle as NEW CASES PER DAY
 > Completed SAT OCT.3 
 
-Import India SENSEX Stock Market Index and calculate daily returns
+Import India SENSEX Stock Market Index from Yahoo Finance API and calculate daily returns
 > Completed SAT OCT.3
 
 Determine time periods reflected and do an inner join so only like days are reflected
