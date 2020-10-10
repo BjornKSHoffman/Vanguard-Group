@@ -91,5 +91,10 @@ We were incorrect in that deaths and cases equally affect indexes, if any effect
 
 We were correct that that the United States showed the greatest reactionary volatility! This should inform investors that the S+P 500 is wary of a bubble and could lose a large amount in a relatively small period of time in response to negative news.
 
+## Next steps/Follow up research
+
+We thought it would be interesting to look at data for different time periods; i.e. weekly or monthly, and see if the results were more indicative of a correlation trend.
+Also, more data will accumulate over the next months and may yeild results; i.e. it would be interesting to reveiw this project again in a year or so and see if anything changed.
+
 # Sources
 https://www.kaggle.com/unanimad/corona-virus-brazil
