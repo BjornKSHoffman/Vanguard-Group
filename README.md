@@ -12,7 +12,7 @@ By the end of April 2020 global cases for COVID-19 had surged past 1,000,000 pat
 
 The goal of our project is to further understand the relationship between reported cases, reported deaths, and the performance of global market indexes. To do so, we will compare statistics for daily coronavirus cases and deaths being reported from three large, heavily effeced countries in seperate geographical locations across three continents, and compare them against daily primary market index returns in those countries over the same period of time. 
 
-The data used will be the daily COIVD-19 cases and deaths  with relatively reliable coronavirus statistics: USA, Brazil, and India; and the daily returns posted from equity markets indices: USA’s S&P 500, India's S&P BSE Sensex, and Brazil's BVSP.
+The data used will be the daily COVID-19 cases and deaths from KAGGLE from countries with relatively reliable coronavirus statistics: USA, Brazil, and India; and the daily returns posted from equity markets indices: USA’s S&P 500, India's S&P BSE Sensex, and Brazil's BVSP.
 
 We then will analyze and correlate the data to find any potential connection, and see if the data lends itself to conclusions that could be provide valuable insight to affected communities and wary investors. 
 
