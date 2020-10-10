@@ -75,6 +75,12 @@ Heatmap(bjorn
 
 ## Limitations
 
+dropna() function limited our comparable data to only 3/19-7/21 so only a period of 4 months, but the entries over that time period were sufficient to show our points and find results.
+
+Brazil (and all countries) may be misrepresenting their coronavirus statistics, particularly as there was a scandal when brazil deaths spiked and Bolsonaro stopped presenting the data to the CDC Because India and Brazil may have less sophisticated testing infrastructure leading to underrepresented statistics in both cases and deaths
+
+Percent change data in the first month when cases were initially low was far more volatile than market index data could ever be, including spikes of over 100% in a day for some outlying cases; this may have skewed the correllation data.
+
 ## Conclusions
 We were incorrect that market will react negatively on days where reported cases are higher. All three countries' indexes had different reactions to the cases and deaths statistics as you saw in the heatmap. Additionally, all of the correlations were relatively low.
 We think that means that there is little reaction to daily new cases, and as such investors need not necesarily worry on a daily basis about the new cases statistics.
