@@ -25,14 +25,14 @@ H₀: The number of daily new COVID-19 cases in USA, India, and Brazil has no ef
 H₁: The number of daily new COVID-19 cases in USA, India, and Brazil has a negative effect on the daily returns for these countries’ respective major equity market indices.
 
 
-We posit that it is likely a percent increase in cases would correlate with a spike that would simultaneously breed lethality within the respective countries.
+We posit that it is likely a percent increase in cases would correlate with a coronavirus spike that would simultaneously breed lethality within the respective countries.
 Our team hypothesizes that a positive correlation will exist between daily reported cases and daily reported deaths within the respective countries. 
 
 H₀: The number of daily new COVID-19 cases in USA, India, and Brazil has no effect on the daily deaths for these countries.
 
 H₁: The number of daily new COVID-19 cases in USA, India, and Brazil has a positive effect on the daily deaths for these countries.
 
-We posit that either reported deaths OR reported cases 
+We posit that either reported deaths OR reported cases will affect the index more
 H₀: Deaths and cases equally affect indexes
 
 H₁: Deaths OR Cases superiorly impact
@@ -61,7 +61,26 @@ Repeat for U.S., Brazil
 > Completed SAT OCT.3
 
 ## Visualization
-Graph 1: Mapbox 
+Graph 1(Bjorn): Mapbox 
 THis graph visualizes that the pandemic is relatively reflective in each of the three countries, and highlights the sheer signifigance of the pandemic. These three countries along have 
 
-Graph2:
+Graph2:(Roman) Total confirmed deaths by country
+
+
+Graph (bjorn) percent change in deaths
+
+Graph Market Daily returns(kevin)
+
+Heatmap(bjorn
+
+## Limitations
+
+## Conclusions
+We were incorrect that market will react negatively on days where reported cases are higher. All three countries' indexes had different reactions to the cases and deaths statistics as you saw in the heatmap. Additionally, all of the correlations were relatively low.
+We think that means that there is little reaction to daily new cases, and as such investors need not necesarily worry on a daily basis about the new cases statistics.
+
+We were correct that cases and deaths were correllated in all three countries, as was to be expected.
+
+We were incorrect in that deaths and cases equally affect indexes, if any effect was present at all it did not seem to differentiate between the effect of cases or deaths.
+
+We were correct that that the United States showed the greatest reactionary volatility! This should inform investors that the S+P 500 is wary of a bubble and could lose a large amount in a relatively small period of time in response to negative news.
