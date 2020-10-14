@@ -32,14 +32,16 @@ H₀: The number of daily new COVID-19 cases in USA, India, and Brazil has no ef
 
 H₁: The number of daily new COVID-19 cases in USA, India, and Brazil has a positive effect on the daily deaths for these countries.
 
-We posit that either reported deaths OR reported cases will affect the index more
+We posit that both reported deaths and reported cases will affect the index in similar fashion. 
 
 H₀: Deaths and cases equally affect indexes
 
 H₁: Deaths and cases do not equally affect indexes
 
 We posit that the United States will show the greatest reactionary volatility 
+
 H₀: Countries show the same reactionary volatility
+
 H₁: United States will show the greatest reactionary volatility 
 
 ## Psuedocode for Kevin's Demonstration
